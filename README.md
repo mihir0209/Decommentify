@@ -6,7 +6,7 @@ Python, C, C++, H, Java, JavaScript, C#, SQL, HTML, Ruby, Haskell <br> <br>
 ----
 You have to follow these steps to copy and paste some additional things to your VSCode settings:
 Important: You have to change the path mentioned below to where you have downloaded the file.
-### If you want to run the exe directly (with no personal modifications of yours):
+## If you want to run the exe directly (with no personal modifications of yours):
 1. Download the `decommentify.exe` file directly
 2. If you'd like to change the file's location, please do it in this step only.
 3. Steps for tasks and Keybinding editing in vscode:
@@ -54,7 +54,7 @@ Important: You have to change the path mentioned below to where you have downloa
 ```
 
 
-### If you want to have the python code (with personal modifications for the code):
+## If you want to have the python code (with personal modifications for the code):
 1. Download the `decommentify.py` file directly
 2. If you'd like to change the file's location, please do it in this step only.
 3. You can change the behaviour of the code in the python file directly.
