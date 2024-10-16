@@ -1,5 +1,7 @@
 # Decommentify
-Decomment the whole file in vscode with a simple shortcut
+Decomment the whole file in vscode with a simple shortcut <br>
+Currently, this supports languages given below:<br>
+Python, C, C++, H, Java, JavaScript, C#, SQL, HTML, Ruby, Haskell <br> <br>
 #Usage:
 ----
 You have to follow these steps to copy and paste some additional things to your VSCode settings:
@@ -26,7 +28,7 @@ Important: You have to change the path mentioned below to where you have downloa
     "command": "cmd",
             "args": [
                 "/c", 
-                "echo Author: MiHiR && D:\\Path To Your\\decommentify.exe",
+                "echo Author: MiHiR && C:\\Path To Your\\decommentify.exe",
                 "${file}"
             ],
     "group": {
@@ -76,7 +78,7 @@ Important: You have to change the path mentioned below to where you have downloa
     "command": "cmd",
             "args": [
                 "/c", 
-                "echo Author: MiHiR && D:\\Path To Your\\decommentify.py",
+                "echo Author: MiHiR && C:\\Path To Your\\decommentify.py",
                 "${file}"
             ],
     "group": {
